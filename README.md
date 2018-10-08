@@ -32,3 +32,7 @@ C70 | 10 µF 25V | axial
 
 ![Front](images/front-layer.jpg)
 ![Back](images/back-layer.jpg)
+
+## License
+
+See [license file](LICENSE)
