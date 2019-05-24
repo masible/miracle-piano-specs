@@ -4,9 +4,8 @@ Technical information about the Miracle Piano Teaching System from The Software 
 ## External documentation
 
 - [Wikipedia page](https://en.wikipedia.org/wiki/Miracle_Piano_Teaching_System)
-- [Miracle Piano software and documentation](http://pianoeducation.org/pnompcab.html)
-- [Replacement serial cable](http://pianoeducation.org/pnompcab.html)
-- [Another FAQ (racketboy)](http://www.racketboy.com/forum/viewtopic.php?p=588444)
+- [Miracle Piano software, documentation and serial cable pinout](http://pianoeducation.org/pnompcab.html)
+- [Another FAQ (racketboy)](http://www.racketboy.com/forum/viewtopic.php?p=588444) (includes serial cable pinout for the NES with diagrams and photos)
 - [Repair video #1 (Taylor Helm)](https://www.youtube.com/watch?v=90LaH4nD_Us), [Repair video #2 (8-bit Keys)](https://www.youtube.com/watch?v=fXMY-XLa8s0)
 
 ## Board
